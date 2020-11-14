@@ -1,3 +1,3 @@
 My Project
 
-This is a git practice
+This is a git practice file
